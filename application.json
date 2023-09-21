@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "id": "首页",
+      "isDefault": true
+    },
+    {
+      "id": "人员管理",
+      "isDefault": false
+    },
+    {
+      "id": "页面1",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#ECECEC",
+  "icon": "pizza",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "viewerLayout": "{\"color\":\"#4ade80\",\"logoUrl\":\"\",\"name\":\"应用测试\",\"treeData\":[{\"title\":\"首页\",\"pageId\":\"650bf7bd6fbfd93d5cd60c27\",\"isPage\":true,\"icon\":\"arrow\"},{\"title\":\"系统配置\",\"icon\":\"arrow\",\"expanded\":true,\"children\":[{\"title\":\"人员管理\",\"pageId\":\"650bf28b6fbfd93d5cd60b29\",\"isPage\":true},{\"title\":\"主题设置\"}]},{\"title\":\"页面1\",\"pageId\":\"650bf7f96fbfd93d5cd60c43\",\"isPage\":true}],\"outsiderTree\":[]}",
+  "deleted": false
+}
